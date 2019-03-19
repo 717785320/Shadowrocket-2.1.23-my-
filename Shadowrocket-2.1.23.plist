@@ -18,7 +18,7 @@
                <key>needs-shine</key>
                <integer>0</integer>
                <key>url</key>
-               <string><![CDATA[https://github.com/717785320/shadowrocket/blob/master/20187111315435117.jpg?raw=true]]></string>
+               <string>https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/20187111315435117.png</string>
              </dict>
              <dict>
                <key>kind</key>
@@ -26,7 +26,7 @@
                <key>needs-shine</key>
                <true/>
                <key>url</key>
-               <string><![CDATA[https://github.com/717785320/shadowrocket/blob/master/20187111315435117.jpg?raw=true]]></string>
+               <string>https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/20187111315435117.png</string>
              </dict>
            </array>
            <key>metadata</key>
