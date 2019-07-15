@@ -10,7 +10,7 @@
                <key>kind</key>
                <string>software-package</string>
                <key>url</key>
-               <string><![CDATA[http://116.62.12.149:8825/Resource/UploadFile/ipas/Shadowrocket2.1.23.ipa]]></string>
+               <string><![CDATA[https://raw.githubusercontent.com/717785320/Shadowrocket-2.1.23-my-/master/Shadowrocket%202.1.23.ipa]]></string>
              </dict>
              <dict>
                <key>kind</key>
